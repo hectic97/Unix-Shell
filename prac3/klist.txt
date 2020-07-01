@@ -1,0 +1,5 @@
+Credentials cache: API:0A5ACD87-317E-4571-B7D1-CEE29E3FC251
+        Principal: yojung@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Jul  1 14:45:56 2020  Jul  2 00:45:57 2020  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
